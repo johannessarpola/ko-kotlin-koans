@@ -12,7 +12,7 @@ files:
       offset: 82
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: it % 2 == 0
   text: |
     fun containsEven(collection: Collection<Int>): Boolean =

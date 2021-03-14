@@ -12,7 +12,7 @@ files:
       offset: 30
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: RationalNumber(this, 1)
   - offset: 96
     length: 29
@@ -22,7 +22,7 @@ files:
       offset: 79
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: RationalNumber(first, second)
   text: |
     fun Int.r(): RationalNumber = TODO()

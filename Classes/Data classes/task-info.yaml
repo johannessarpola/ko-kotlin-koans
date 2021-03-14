@@ -12,7 +12,7 @@ files:
       offset: 0
     initialized_from_dependency: false
     selected: false
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: 'data class Person(val name: String, val age: Int)'
   text: |-
     class Person

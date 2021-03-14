@@ -12,7 +12,7 @@ files:
       offset: 97
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: |-
       override fun compareTo(other: MyDate) = when {
               year != other.year -> year - other.year

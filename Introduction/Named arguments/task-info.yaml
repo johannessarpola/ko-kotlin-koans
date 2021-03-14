@@ -28,7 +28,7 @@ files:
       offset: 76
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: prefix = "[", postfix = "]"
   text: |
     fun joinOptions(options: Collection<String>) =

@@ -12,7 +12,7 @@ files:
       offset: 74
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: ': Nothing'
   text: |-
     import java.lang.IllegalArgumentException

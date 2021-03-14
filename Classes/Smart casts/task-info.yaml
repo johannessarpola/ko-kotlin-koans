@@ -12,7 +12,7 @@ files:
       offset: 72
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: expr.value
   - offset: 114
     length: 52
@@ -22,7 +22,7 @@ files:
       offset: 101
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: eval(expr.left) + eval(expr.right)
   text: |
     fun eval(expr: Expr): Int =
